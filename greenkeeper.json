@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "bower_components/angular/package.json",
+        "bower_components/bootstrap/package.json",
+        "bower_components/q/package.json",
+        "bower_components/stamplay-js-sdk/package.json",
+        "bower_components/store.js/package.json"
+      ]
+    }
+  }
+}
